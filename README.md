@@ -1,5 +1,5 @@
-Landing Page for my Coffee Website
+Landing Page for a Coffee Website
 
-Made with pure HTML and CSS
+Made with HTML and CSS
 
 https://tohpinren.github.io/coffee-landing-page/
